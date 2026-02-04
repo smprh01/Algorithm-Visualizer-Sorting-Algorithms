@@ -23,6 +23,6 @@ An interactive **Sorting Visualizer** built using **HTML, CSS, and JavaScript** 
 ## Contact Information
 If you have any questions or suggestions, feel free to reach out:
 
-**Email**: priyankasinghal3506@gmail.com
-**Linkedin**: https://www.linkedin.com/in/priyankasinghal06
+- **Email**: priyankasinghal3506@gmail.com
+- **Linkedin**: https://www.linkedin.com/in/priyankasinghal06
 
